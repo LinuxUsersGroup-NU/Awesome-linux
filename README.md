@@ -1,5 +1,8 @@
 <h1 align="center"> <a href="http://awesome.re"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="awesome"></a> Linux </h1>
 
+<p align="center">We Thank <a href="https://github.com/aleksandar-todorovic/awesome-linux">aleksandar-todorovic/awesome-linux
+</a> and all his fellow contributors for this contribution to help us learn this  </p>
+
 <p align="center">We all know that Linux is awesome, but here's a list of especially awesome things related to the Linux ecosystem.</p>
 
 ![linux graphic](http://i.imgur.com/3F0xXh8.jpg)
