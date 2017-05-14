@@ -131,3 +131,11 @@ Keep in mind that this subsection values quality over quantity.
 If you think that this list needs a new section, you're probably right.
 
 In that case, please create an issue and explain why do you think that this category should make it to the list. If there's more people supporting your opinion, feel free to create a pull request.
+
+
+
+## Paying Homage (duh!)
+
+Respecting other's work is really required in Open Source and we do respect **aleksandar-todorovic** work towards building up this super fine starter kit.
+
+Please pay your homage to [aleksandar-todorovic/awesome-linux](https://github.com/aleksandar-todorovic/awesome-linux)
